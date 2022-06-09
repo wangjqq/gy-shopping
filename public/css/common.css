@@ -1,0 +1,32 @@
+/* 申明字体图标 */
+@font-face {
+    font-family: "iconfont";
+    /* Project id  */
+    src: url('../fonts/iconfont.ttf?t=1645084751891') format('truetype');
+}
+
+/* .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xiangxia:before {
+    content: "\f0170";
+} */
+
+/* 版心 */
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
